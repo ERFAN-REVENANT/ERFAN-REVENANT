@@ -5,7 +5,7 @@ I am Erfan, people call me Revenant, currently im working on [Adobe After Effect
 
 [![Instagram Badge](https://img.shields.io/badge/-average_erfan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/average_erfan/)](https://www.instagram.com/average_erfan/)
 
-![](https://discord.c99.nl/widget/theme-1/669264985947373596.png)
+![](https://discord.c99.nl/widget/theme-2/669264985947373596.png)
 
 ## ⚡ Technologies
 
