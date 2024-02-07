@@ -1,7 +1,7 @@
 # About Me!
-## Glad to you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Erfan, people call me Revenant, currently im working on [Adobe After Effects](https://www.tiktok.com/@erfanrevenant40). I am always following new things on the web. Find out more about me & feel free to connect with me here:
+I'm Erfan!
 
 [![Instagram Badge](https://img.shields.io/badge/-average_erfan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/average_erfan/)](https://www.instagram.com/average_erfan/)
 
