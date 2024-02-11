@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://discord.gg/sigmamale" target="_blank">
-    <img align="center" src="https://dcbadge.vercel.app/api/server/8e52bTPMmz" alt="ERFAN-REVENANT's Discord Server" />
+    <img align="center" src="https://dcbadge.vercel.app/api/server/wpaAts8nUp" alt="ERFAN-REVENANT's Discord Server" />
   </a>
 </p>
 
