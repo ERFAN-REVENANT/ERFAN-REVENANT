@@ -1,13 +1,51 @@
-# About Me!
-## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<p align="center">
+ Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</p>
 
-I'm Erfan!
+<p align="center">
+ I'm Erfan!
+</p>
 
-[![Instagram Badge](https://img.shields.io/badge/-average_erfan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/average_erfan/)](https://www.instagram.com/average_erfan/)
+<p align="center">
 
-![](https://discord.c99.nl/widget/theme-2/669264985947373596.png)
+  <a href="https://www.instagram.com/erfan_b404">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.gg/sigmamale">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/erfan-bagheri-321625242" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@erfan_revenant">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tiktok-8A2BE2?style=flat&logo=tiktok&logoColor=white">
+  </a>
+</p>
 
-## ⚡ Technologies
+<p align="center">
+  <a href="https://discord.gg/sigmamale" target="_blank">
+    <img align="center" src="https://dcbadge.vercel.app/api/server/sigmamale" alt="ERFAN-REVENANT's Discord Server" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ERFAN-REVENANT" target="_blank">
+  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="ERFAN-REVENANT's github views" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="[https://discord.gg/sigmamale](https://discord.gg/sigmamale)" target="_blank">
+    <img align="center" src="https://lanyard.cnrad.dev/api/669264985947373596" />
+  </a>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+# ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -38,5 +76,18 @@ I'm Erfan!
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ERFAN-REVENANT&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERFAN-REVENANT&hide=TeX&layout=compact)
+<p align="center">
+  <a href="https://github.com/ERFAN-REVENANT" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ERFAN-REVENANT&show_icons=true&theme=cobalt" alt="ERFAN-REVENANTS's github stats" />
+  </a>
+    <a href="https://github.com/ERFAN-REVENANT" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERFAN-REVENANT&hide=Jupyter+Notebook,ruby,cmake,nsis,shell,procfile&theme=calm&langs_count=6&layout=compact" alt="ERFAN-REVENANTS's github stats" />
+  </a>
+<p>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ERFAN-REVENANT&theme=onedark" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/ERFAN-REVENNT/ERFAN-REVENANT/master/github-metrics.svg" />
+</p>
