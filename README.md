@@ -86,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/ERFAN-REVENNT/ERFAN-REVENANT/master/github-metrics.svg" />
+  <img align="center" src="https://raw.githubusercontent.com/ERFAN-REVENNT/ERFAN-REVENANT/main/github-metrics.svg" />
 </p>
