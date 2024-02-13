@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/ERFAN-REVENANT" target="_blank">
-  <img align="center" src="https://endoebq56a0hm8y.m.pipedream.net" alt="ERFAN-REVENANT's github views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ERFAN-REVENANT.ERFAN-REVENANT" />
   </a>
 </p>
 
