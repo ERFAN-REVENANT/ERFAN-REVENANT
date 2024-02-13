@@ -1,9 +1,5 @@
 <p align="center">
- Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-</p>
-
-<p align="center">
- I'm Erfan!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B;I'm+Erfan!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
