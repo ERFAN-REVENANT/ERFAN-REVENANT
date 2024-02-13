@@ -76,9 +76,6 @@
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ERFAN-REVENANT&theme=onedark" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/ERFAN-REVENNT/ERFAN-REVENANT/main/github-metrics.svg" />
-</p>
 <br>
 <hr/>
 <br>
