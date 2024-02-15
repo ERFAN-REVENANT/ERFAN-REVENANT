@@ -10,7 +10,7 @@
   <a href="https://discord.gg/sigmamale">
     <img alt="Static Badge" src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/erfan-bagheri-321625242" target="_blank">
+  <a href="https://www.linkedin.com/in/erfanbagheri/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.tiktok.com/@erfan_revenant">
