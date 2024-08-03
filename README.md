@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/sigmamale" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ERFAN_REVENANT'S%20SERVER-%2B10K%20Members-gray?style=flat&logo=discord&logoColor=white&labelColor=7289da&link=https%3A%2F%2Fdiscord.gg%2Fsigmamale">
+  <a href="https://discord.gg/memez" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ERFAN_REVENANT'S%20SERVER-%2B10K%20Members-gray?style=flat&logo=discord&logoColor=white&labelColor=7289da&link=https%3A%2F%2Fdiscord.gg%2Fmemez">
 
   </a>
 </p>
