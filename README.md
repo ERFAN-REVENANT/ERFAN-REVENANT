@@ -46,9 +46,9 @@
 <h2 align="center">⚡FrameWorks & Tools⚡</h2>
 <br>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind,html,css,vscode,github,git" />
+      <img src="https://skillicons.dev/icons?i=vscode,github,photoshop,figma" />
 <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,figma,photoshop,react" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,react,git,html,css,tailwind" /><br>
   
 </p>
 <br>
