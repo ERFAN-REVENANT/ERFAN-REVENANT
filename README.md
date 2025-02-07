@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/erfan_b404">
     <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-bc2a8d?style=flat&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.gg/sigmamale">
+  <a href="https://discord.gg/memez">
     <img alt="Static Badge" src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/erfanbagheri/" target="_blank">
@@ -16,14 +16,11 @@
   <a href="https://www.tiktok.com/@erfan_revenant">
     <img alt="Static Badge" src="https://img.shields.io/badge/Tiktok-8A2BE2?style=flat&logo=tiktok&logoColor=white">
   </a>
-  <a href="https://erfan-revenant.github.io/Erfan/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=firefox&logoColor=white">
-  </a>
 </p>
 
 <p align="center">
   <a href="https://discord.gg/memez" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ERFAN_REVENANT'S%20SERVER-%2B10K%20Members-gray?style=flat&logo=discord&logoColor=white&labelColor=7289da&link=https%3A%2F%2Fdiscord.gg%2Fmemez">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ERFAN_REVENANT'S%20SERVER-%2B25K%20Members-gray?style=flat&logo=discord&logoColor=white&labelColor=7289da&link=https%3A%2F%2Fdiscord.gg%2Fmemez">
 
   </a>
 </p>
