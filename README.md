@@ -60,10 +60,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERFAN-REVENANT&layout=compact&theme=nightowl&langs_count=8&hide=procfile,cmake,nsis"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ERFAN-REVENANT&theme=nightowl" alt="GitHub Streak"/>
-</p>
-
 
 
 
